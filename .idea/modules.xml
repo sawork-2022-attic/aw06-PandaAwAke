@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/batch-metadata-to-mysql/batch-metadata-to-mysql.iml" filepath="$PROJECT_DIR$/batch-metadata-to-mysql/batch-metadata-to-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webpos/webpos.iml" filepath="$PROJECT_DIR$/webpos/webpos.iml" />
+    </modules>
+  </component>
+</project>
