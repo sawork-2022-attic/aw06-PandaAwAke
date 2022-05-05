@@ -21,3 +21,25 @@ Please finish the following tasks:
 
 
 And, of course, always try to make the system run as fast as possible.
+
+
+
+
+
+# 记录
+
+选择 metadata 集为 Gift_Cards 和 Prime_Pantry
+
+![image-20220505153537010](README.assets/image-20220505153537010.png)
+
+
+
+最后只需要重写一下aw04的获取数据库
+
+![image-20220505160954719](README.assets/image-20220505160954719.png)
+
+![image-20220505161030425](README.assets/image-20220505161030425.png)
+
+
+
+仓库里也附带上了mysql的数据文件夹。
